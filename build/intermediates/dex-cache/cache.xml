@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/nammi/AndroidStudioProjects/JsoupTutorial/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/nammi/AndroidStudioProjects/JsoupTutorial/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-21408764d56a5c5694f46961b88fc8f70cbc645a.jar" />
+    </item>
+    <item
+        jar="/home/nammi/AndroidStudioProjects/JsoupTutorial/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/nammi/AndroidStudioProjects/JsoupTutorial/app/build/intermediates/pre-dexed/debug/classes-5765bec6a08374d2edc606a90f0900e3a66269ea.jar" />
+    </item>
+    <item
+        jar="/home/nammi/AndroidStudioProjects/JsoupTutorial/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/nammi/AndroidStudioProjects/JsoupTutorial/app/build/intermediates/pre-dexed/debug/classes-977cf797585bcc5aa4fe2994996fc330999dcadc.jar" />
+    </item>
+    <item
+        jar="/home/nammi/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/nammi/AndroidStudioProjects/JsoupTutorial/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-621a1313c3ef3217067f3bd513dc9755d4440a08.jar" />
+    </item>
+    <item
+        jar="/home/nammi/AndroidStudioProjects/JsoupTutorial/app/libs/jsoup-1.8.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="580e4dd2a6125cc4037450b40623ac6a552c11df">
+        <dex dex="/home/nammi/AndroidStudioProjects/JsoupTutorial/app/build/intermediates/pre-dexed/debug/jsoup-1.8.2-873eb53dcc25504f1b67d92fb235f0f2b3bc460a.jar" />
+    </item>
+
+</items>
